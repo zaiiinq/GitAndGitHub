@@ -18,7 +18,7 @@ This is a speedy how-to, intended on getting you started with GitHub.
 
 3. Are you in a workshop?
 
-   1. The Workshopper at the front will be working to [this presentation](./presentations/git.pptx)
+   1. The Workshopper at the front will be working to [this presentation](./presentations/gita.pptx)
 
    2. You'll learn about:
 
